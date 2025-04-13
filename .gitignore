@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+*.log
+
+# Environment variables
+.env
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
